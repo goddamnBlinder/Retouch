@@ -58,3 +58,7 @@ p, .webtext{
 img {
     float: right;
 }
+
+footer{
+    clear: both;
+}
