@@ -13,6 +13,7 @@ body{
 
 }
 ul {
+    display: run-in;
     list-style: none;
     text-decoration: none;
 }
