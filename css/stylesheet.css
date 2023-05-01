@@ -32,7 +32,20 @@ section {
 }
 
 
-p{
+p, .webtext{
     align-self: center;
-    color: #24f4;
+    color: azure;
+    opacity: 0.2;
+}
+
+#div1, #div2 {
+    float: left;
+}
+
+#div1 {
+    background-color: rgba(0, 0, 255, 0.2)
+}
+
+#div2 {
+    background-color: rgba(255, 0, 0, 0.2);
 }
